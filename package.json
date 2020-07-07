@@ -1,0 +1,29 @@
+{
+  "name": "stylelint-no-nested-media",
+  "version": "0.1.0",
+  "description": "Disallow nested @media rules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dkrnl/stylelint-no-nested-media.git"
+  },
+  "keywords": [
+    "stylelint",
+    "stylelint-plugin",
+    "css",
+    "scss",
+    "linter"
+  ],
+  "author": "dkrnl <dkrnl@yandex.ru>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dkrnl/stylelint-no-nested-media/issues"
+  },
+  "homepage": "https://github.com/dkrnl/stylelint-no-nested-media#readme",
+  "devDependencies": {
+    "stylelint": "^13.6.1"
+  }
+}
